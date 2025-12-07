@@ -1,3 +1,6 @@
 [submodule "guessing_game"]
 	path = guessing_game
-	url = https://github.com/YOUR_USERNAME/guessing_game.git
+	url = git@github.com:hogeol/guessing_game.git
+[submodule "Baekjoon_Rust"]
+	path = Baekjoon_Rust
+	url = git@github.com:hogeol/Baekjoon_Rust.git
